@@ -52,7 +52,7 @@ import java.sql.Statement;
 public class CreateATable {
 
     /**
-     * Assignment: Create a new table in the problem1.sql file, called "song" with 2 columns "title" and "artist".
+     * Assignment Create a new table in the problem1.sql file, called "song" with 2 columns "title" and "artist".
      * both columns should have the datatype varchar(100), which represents a String of up to 100 characters.
      *
      *     Example Song Table Diagram:
